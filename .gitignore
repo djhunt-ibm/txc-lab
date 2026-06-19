@@ -1,0 +1,27 @@
+.env
+.env.*
+
+.venv
+
+.venv
+.config.yaml
+.DS_Store
+
+log_success.txt
+.DS_Store
+private/
+__pycache__/
+
+
+# script caches
+scripts/.cache/*
+
+*.egg-info/
+*.egg
+dist/
+build/
+__pycache__/
+*.pyc
+
+.DS_Store
+.DS_Store
